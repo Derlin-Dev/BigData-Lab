@@ -1,0 +1,21 @@
+# Variables de entorno
+.env
+
+# Datos persistentes
+data/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Mac/Linux
+.DS_Store
